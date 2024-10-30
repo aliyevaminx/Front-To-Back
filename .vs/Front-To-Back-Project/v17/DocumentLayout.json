@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\entities\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:entities\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|c:\\users\\amin\\source\\repos\\front-to-back-project\\models\\contact\\contactinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1EB4DC-5757-4004-B1D7-1C48EC7A60FC}|Front-To-Back-Project.csproj|solutionrelative:models\\contact\\contactinfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "Controllers\\PricingController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:10:23.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\WorkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkController.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\WorkController.cs",
+              "RelativeToolTip": "Controllers\\WorkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:10:21.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:09:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswF0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T18:07:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactInfoVM.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Models\\Contact\\ContactInfoVM.cs",
+              "RelativeDocumentMoniker": "Models\\Contact\\ContactInfoVM.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Models\\Contact\\ContactInfoVM.cs",
+              "RelativeToolTip": "Models\\Contact\\ContactInfoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:02:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeDocumentMoniker": "Models\\Contact\\ContactIndexVM.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeToolTip": "Models\\Contact\\ContactIndexVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:02:34.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Entities\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "Entities\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\Amin\\source\\repos\\Front-To-Back-Project\\Entities\\ContactInfo.cs",
+              "RelativeToolTip": "Entities\\ContactInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:59:16.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
