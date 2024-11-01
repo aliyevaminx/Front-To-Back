@@ -19,7 +19,7 @@ public class AboutController : Controller
         var teamMembers = _context.TeamMembers.ToList();
 
         var teamMemberList = new List<TeamMemberVM>();
-        foreach (var teamMember in teamMemberList)
+        foreach (var teamMember in teamMembers)
         {
             var teamMemberVM = new TeamMemberVM
             {
